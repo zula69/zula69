@@ -22,7 +22,7 @@ To become a skilled cybersecurity and networking professional by gaining hands-o
 ## Projects
 | project                                | Link                                                                      |
 |----------------------------------------|---------------------------------------------------------------------------|
-| meow pc                                | <a href="https://github.com/zula69/Meow-HackTheBox-Starter-Lab"</a>       |                                               
+| meow pc                                | <a href ="https://github.com/zula69/Meow-HackTheBox-Starter-Lab"></a>       |                                               
 
 
 
