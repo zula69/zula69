@@ -19,6 +19,17 @@ To become a skilled cybersecurity and networking professional by gaining hands-o
 | Fundamentals in endpoint security             |                            
 | Fundamentals in linux                         |                            
 
+## Projects
+| project                                | Link                                                                      |
+|----------------------------------------|---------------------------------------------------------------------------|
+| meow pc                                | <a href="https://github.com/zula69/Meow-HackTheBox-Starter-Lab"</a>       |                                               
+
+
+
+
+
+
+
 
 ## Tools
 
