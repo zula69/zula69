@@ -20,9 +20,10 @@ To become a skilled cybersecurity and networking professional by gaining hands-o
 | Fundamentals in linux                         |                            
 
 ## Projects
-| project                                                   |       link                                     |
-|-------------------------------------------------------------------------------------------------------------|
-|                                                                                                             |
+| project                                                  |       link                                        |
+|----------------------------------------------------------|---------------------------------------------------|
+| Simple SQL attack simulation and analysis                |        link                                       |
+
 
 
 
