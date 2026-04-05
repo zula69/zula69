@@ -21,7 +21,7 @@ To become a skilled cybersecurity and networking professional by gaining hands-o
 
 ## Projects
 | project                                                   |       link                                     |
---------------------------------------------------------------------------------------------------------------
+|-------------------------------------------------------------------------------------------------------------|
 |                                                                                                             |
 
 
@@ -89,6 +89,3 @@ To become a skilled cybersecurity and networking professional by gaining hands-o
 <img src="https://img.shields.io/badge/Palo_Alto-Networks-FF0000?style=for-the-badge&logo=paloalto&logoColor=white" />
 </div>
 
-## Projects
-- HTB(hack the box) labs
-- Home networking lab
