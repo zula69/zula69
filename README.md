@@ -20,6 +20,32 @@ To become a skilled cybersecurity and networking professional by gaining hands-o
 | Fundamentals in linux                         |                            
 
 ## Projects
+| project                                                   |       link                                     |
+--------------------------------------------------------------------------------------------------------------
+|                                                                                                             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Labs
 | project                        | Link                                                                      |
 |--------------------------------|---------------------------------------------------------------------------|
 | Hack The Box lab             | <a href ="https://github.com/zula69/Meow-HackTheBox-Starter-Lab">click here</a> |     
