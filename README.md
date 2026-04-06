@@ -20,9 +20,9 @@ To become a skilled cybersecurity and networking professional by gaining hands-o
 | Fundamentals in linux                         |                            
 
 ## Projects
-| project                                                  |       link                                        |
-|----------------------------------------------------------|---------------------------------------------------|
-| Simple SQL attack simulation and analysis                |        link                                       |
+| project                     |       link                                                                           |
+|-----------------------------|---------------------------------------------------------------------------------------|
+| Simple SQL attack simulation|< a href="https://github.com/zula69/Simple-SQL-attack-simulation-and-analysis/tree/main">click here</a>  |                                  
 
 
 
