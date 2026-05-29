@@ -1,9 +1,7 @@
-<div align="center">
 👾 NIHARA SULOCHANA SAMARANAYAKE
 `Networking & Cybersecurity Undergraduate · Ethical Hacker in the Making`
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-</div>
 ---
 🧠 About Me
 > *"The quieter you become, the more you are able to hear."* — Kali Linux
@@ -13,12 +11,14 @@ I'm an undergraduate student specializing in Networking & Cybersecurity, driven 
 Become a skilled cybersecurity professional through hands-on experience in vulnerability assessment, penetration testing, and secure network design — while contributing to real-world security solutions.
 ---
 🛠️ Skills
-```
-🌐  Networking Fundamentals           🔐  Cybersecurity Fundamentals
-🛡️  Endpoint Security                 🐧  Linux Administration
-🔧  Network Troubleshooting           📋  Project Management Basics
-💻  Programming Fundamentals
-```
+Area	Level
+🌐 Networking Fundamentals	Fundamentals
+🔐 Cybersecurity Fundamentals	Fundamentals
+🐧 Linux Administration	Fundamentals
+🛡️ Endpoint Security	Fundamentals
+🔧 Network Troubleshooting & Configuration	Fundamentals
+📋 Project Management	Fundamentals
+💻 Programming	Fundamentals
 ---
 ⚔️ Tools & Technologies
 Network Analysis
@@ -49,7 +49,5 @@ SIEM
 04	Dancing — Starter Lab	→ View
 05	Cap — Lab	→ View
 ---
-<div align="center">
-"Security is not a product, but a process." — Bruce Schneier
+> *"Security is not a product, but a process."* — Bruce Schneier
 ![Visitor Count](https://komarev.com/ghpvc/?username=zula69&color=0e75b6&style=flat-square&label=Profile+Views)
-</div>
