@@ -22,7 +22,8 @@ To become a skilled cybersecurity and networking professional by gaining hands-o
 ## Projects
 | project                     |       link                                                                           |
 |-----------------------------|---------------------------------------------------------------------------------------|
-| Simple SQL attack simulation|<a href="https://github.com/zula69/Simple-SQL-attack-simulation-and-analysis/tree/main">click here</a>  |                                  
+| Simple SQL attack simulation|<a href="https://github.com/zula69/Simple-SQL-attack-simulation-and-analysis/tree/main">click here</a>  | 
+| Home SOC lab (live threat detection with telegram alert and web dash board)| <a href="https://github.com/zula69/Home-SOC-Lab-Live-Threat-Detection-with-Telegram-Alerts-Web-Dashboard/tree/main">click here</a> |
 
 
 
