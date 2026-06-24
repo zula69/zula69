@@ -26,6 +26,7 @@ To become a skilled cybersecurity and networking professional by gaining hands-o
 | Home SOC lab (live threat detection with telegram alert and web dashboard)| <a href="https://github.com/zula69/Home-SOC-Lab-Live-Threat-Detection-with-Telegram-Alerts-Web-Dashboard/tree/main">click here</a> |
 | HoneyTrap — Live Honeypot Attack Monitor with AI Analysis | <a href="https://github.com/zula69/HoneyTrap-Live-Honeypot-Attack-Monitor-with-AI-Analysis/tree/main">click here</a> |
 | APT Simulation & Digital Forensics Investigation — ICBT Campus Network | <a href="https://github.com/zula69/End-to-End-Cybersecurity-Lab-Network-Design-APT-Simulation-Digital-Forensics/tree/main">click here</a> |
+| IoT-Based Smart Sanitation Monitoring System | <a href="https://github.com/zula69/IoT-Based-Smart-Sanitation-Monitoring-System/tree/main">click here</a> |
 
 
 
